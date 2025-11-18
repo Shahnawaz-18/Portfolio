@@ -475,6 +475,7 @@ footer {
     display: flex;
     width: 180px;
     margin: 0 auto 1em auto;
+    border-radius: 50%;
   }
   .profile-img1 {
     display: none;
